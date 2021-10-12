@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>韦阳的博客</title>
+  <title>妄云的博客</title>
   
-  <subtitle>算法码上来</subtitle>
+  <subtitle>游戏的世界</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://godweiyang.com/"/>
+  <link href="http://bugmachine.xyz/"/>
   <updated>2021-10-11T14:01:50.777Z</updated>
-  <id>https://godweiyang.com/</id>
+  <id>http://bugmachine.xyz/</id>
   
   <author>
-    <name>韦阳</name>
+    <name>妄云</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>article title</title>
-    <link href="https://godweiyang.com/2021/10/11/article-title/"/>
-    <id>https://godweiyang.com/2021/10/11/article-title/</id>
+    <link href="http://bugmachine.xyz/2021/10/11/article-title/"/>
+    <id>http://bugmachine.xyz/2021/10/11/article-title/</id>
     <published>2021-10-11T14:01:18.000Z</published>
     <updated>2021-10-11T14:01:50.777Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>十大经典排序算法整理汇总（附代码）</title>
-    <link href="https://godweiyang.com/2020/02/16/sort-algorithms/"/>
-    <id>https://godweiyang.com/2020/02/16/sort-algorithms/</id>
+    <link href="http://bugmachine.xyz/2020/02/16/sort-algorithms/"/>
+    <id>http://bugmachine.xyz/2020/02/16/sort-algorithms/</id>
     <published>2020-02-16T07:09:23.000Z</published>
     <updated>2021-10-11T13:42:13.437Z</updated>
     
@@ -61,12 +61,12 @@
     
     </summary>
     
-      <category term="编程算法" scheme="https://godweiyang.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+      <category term="编程算法" scheme="http://bugmachine.xyz/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="leetcode" scheme="https://godweiyang.com/tags/leetcode/"/>
+      <category term="leetcode" scheme="http://bugmachine.xyz/tags/leetcode/"/>
     
-      <category term="算法" scheme="https://godweiyang.com/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="http://bugmachine.xyz/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   

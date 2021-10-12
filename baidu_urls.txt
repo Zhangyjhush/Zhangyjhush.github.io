@@ -1,2 +1,2 @@
-https://godweiyang.com/2021/10/11/article-title/
-https://godweiyang.com/2020/02/16/sort-algorithms/
+http://bugmachine.xyz/2021/10/11/article-title/
+http://bugmachine.xyz/2020/02/16/sort-algorithms/
