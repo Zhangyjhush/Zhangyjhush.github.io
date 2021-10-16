@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://bugmachine.xyz/2021/10/11/article-title/</loc>
-    <lastmod>2021-10-11</lastmod>
+    <loc>http://bugmachine.xyz/2021/10/16/softwareraytracing/</loc>
+    <lastmod>2021-10-16</lastmod>
   </url>  <url>
     <loc>http://bugmachine.xyz/2020/02/16/sort-algorithms/</loc>
+    <lastmod>2021-10-16</lastmod>
+  </url>  <url>
+    <loc>http://bugmachine.xyz/2021/10/11/article-title/</loc>
     <lastmod>2021-10-11</lastmod>
   </url>
 </urlset>

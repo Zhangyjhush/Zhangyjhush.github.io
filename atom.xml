@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bugmachine.xyz/"/>
-  <updated>2021-10-11T14:01:50.777Z</updated>
+  <updated>2021-10-16T16:01:50.903Z</updated>
   <id>http://bugmachine.xyz/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>软光栅化光线追踪渲染器</title>
+    <link href="http://bugmachine.xyz/2021/10/16/softwareraytracing/"/>
+    <id>http://bugmachine.xyz/2021/10/16/softwareraytracing/</id>
+    <published>2021-10-16T15:09:44.000Z</published>
+    <updated>2021-10-16T16:01:50.903Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;本文将尽可能少的使用除标准库外的内容，方便大家阅读，当然，本人水平有限，部分地方如果存在错误或者建议，欢迎留言指正交流。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="图形渲染" scheme="http://bugmachine.xyz/categories/%E5%9B%BE%E5%BD%A2%E6%B8%B2%E6%9F%93/"/>
+    
+    
+      <category term="渲染" scheme="http://bugmachine.xyz/tags/%E6%B8%B2%E6%9F%93/"/>
+    
+      <category term="游戏引擎" scheme="http://bugmachine.xyz/tags/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E/"/>
+    
+      <category term="管线追踪" scheme="http://bugmachine.xyz/tags/%E7%AE%A1%E7%BA%BF%E8%BF%BD%E8%B8%AA/"/>
+    
+      <category term="C++" scheme="http://bugmachine.xyz/tags/C/"/>
+    
+  </entry>
   
   <entry>
     <title>article title</title>
@@ -43,7 +78,7 @@
     <link href="http://bugmachine.xyz/2020/02/16/sort-algorithms/"/>
     <id>http://bugmachine.xyz/2020/02/16/sort-algorithms/</id>
     <published>2020-02-16T07:09:23.000Z</published>
-    <updated>2021-10-11T13:42:13.437Z</updated>
+    <updated>2021-10-16T15:11:22.058Z</updated>
     
     <summary type="html">
     

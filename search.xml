@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>软光栅化光线追踪渲染器</title>
+      <link href="/2021/10/16/softwareraytracing/"/>
+      <url>/2021/10/16/softwareraytracing/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>本文将尽可能少的使用除标准库外的内容，方便大家阅读，当然，本人水平有限，部分地方如果存在错误或者建议，欢迎留言指正交流。</p></blockquote><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>项目的唯一依赖就是<a 2017 href https: help.autodesk.com view fbx enu ?guid="__files_GUID_6E7B1A2E_584C_49C6_999E_CD8367841B7C_htm""">FBX SDK</a>,可根据链接内文档配置，DirectXTex会以源码形式存在本项目中，无须额外配置。</p><p><strong>本文将会详细讲解渲染管线的各个部分</strong>，但读者最好对基本的渲染流程有一定的了解，如果没有了解过渲染管线，可以先看下《3D Game Programming with DirectX12》第五章内容，本文将按照该章节内容构建渲染器流水线。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 图形渲染 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 渲染 </tag>
+            
+            <tag> 游戏引擎 </tag>
+            
+            <tag> 管线追踪 </tag>
+            
+            <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>article title</title>
       <link href="/2021/10/11/article-title/"/>
       <url>/2021/10/11/article-title/</url>
