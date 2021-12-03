@@ -1,3 +1,4 @@
+http://bugmachine.xyz/2021/12/03/vultr/
 http://bugmachine.xyz/2021/10/16/softwareraytracing/
 http://bugmachine.xyz/2021/10/11/article-title/
 http://bugmachine.xyz/2020/02/16/sort-algorithms/

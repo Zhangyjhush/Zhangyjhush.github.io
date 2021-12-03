@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Vultr</title>
+      <link href="/2021/12/03/vultr/"/>
+      <url>/2021/12/03/vultr/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>此文包含了个人基础设施的一些搭建，备忘</p></blockquote><h2 id="V2Ray配置"><a href="#V2Ray配置" class="headerlink" title="V2Ray配置"></a>V2Ray配置</h2><p><a href="https://www.itblogcn.com/article/1501.html" target="_blank" rel="noopener">博客链接</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 系统配置 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 系统配置 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>软光栅化光线追踪渲染器</title>
       <link href="/2021/10/16/softwareraytracing/"/>
       <url>/2021/10/16/softwareraytracing/</url>
