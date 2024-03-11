@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>游戏常用反采样算法</title>
+      <link href="/2022/06/08/anti-aliasing-algorithm/"/>
+      <url>/2022/06/08/anti-aliasing-algorithm/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>将RGB转化为Luminance进行对比<br>L = 0.2126 <em> R + 0.7152 </em> G + 0.0722 * B</p></blockquote><blockquote><p><a href="http://www.iryoku.com/aacourse/" target="_blank" rel="noopener">http://www.iryoku.com/aacourse/</a></p></blockquote><h2 id="MLAA"><a href="#MLAA" class="headerlink" title="MLAA"></a>MLAA</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Renderring Technique </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Anti-Aliasing </tag>
+            
+            <tag> Algorithm </tag>
+            
+            <tag> Graphics </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Vultr</title>
       <link href="/2021/12/03/vultr/"/>
       <url>/2021/12/03/vultr/</url>
@@ -54,6 +83,19 @@
             <tag> C++ </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>article title</title>
+      <link href="/2021/10/11/ue5test/"/>
+      <url>/2021/10/11/ue5test/</url>
+      
+        <content type="html"><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1>]]></content>
+      
+      
       
     </entry>
     

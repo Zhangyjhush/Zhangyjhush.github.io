@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bugmachine.xyz/"/>
-  <updated>2021-12-03T15:52:11.053Z</updated>
+  <updated>2024-03-11T13:32:31.912Z</updated>
   <id>http://bugmachine.xyz/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>游戏常用反采样算法</title>
+    <link href="http://bugmachine.xyz/2022/06/08/anti-aliasing-algorithm/"/>
+    <id>http://bugmachine.xyz/2022/06/08/anti-aliasing-algorithm/</id>
+    <published>2022-06-08T13:30:20.000Z</published>
+    <updated>2024-03-11T13:32:31.912Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;将RGB转化为Luminance进行对比&lt;br&gt;L = 0.2126 &lt;em&gt; R + 0.7152 &lt;/em&gt; G + 0.0722 * B&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="Renderring Technique" scheme="http://bugmachine.xyz/categories/Renderring-Technique/"/>
+    
+    
+      <category term="Anti-Aliasing" scheme="http://bugmachine.xyz/tags/Anti-Aliasing/"/>
+    
+      <category term="Algorithm" scheme="http://bugmachine.xyz/tags/Algorithm/"/>
+    
+      <category term="Graphics" scheme="http://bugmachine.xyz/tags/Graphics/"/>
+    
+  </entry>
   
   <entry>
     <title>Vultr</title>
@@ -77,6 +111,28 @@
       <category term="管线追踪" scheme="http://bugmachine.xyz/tags/%E7%AE%A1%E7%BA%BF%E8%BF%BD%E8%B8%AA/"/>
     
       <category term="C++" scheme="http://bugmachine.xyz/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>article title</title>
+    <link href="http://bugmachine.xyz/2021/10/11/ue5test/"/>
+    <id>http://bugmachine.xyz/2021/10/11/ue5test/</id>
+    <published>2021-10-11T14:01:18.000Z</published>
+    <updated>2024-03-11T13:32:30.554Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
     
   </entry>
   
